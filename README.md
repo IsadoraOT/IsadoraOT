@@ -9,5 +9,5 @@
 - 🌎 **Goal**: Building robust data pipelines for global SaaS ecosystems.
 
 ---
-### 🛠️ Featured Project: [AISA - AI Content Insights](LINK_PARA_O_PROJETO_DEPOIS)
+### 🛠️ Featured Project: [AISA - AI Content Insights](https://github.com/IsadoraOT/aisa-content-insights)
 *Automating content data pipelines by processing YouTube transcripts through OpenAI's GPT-4.*
