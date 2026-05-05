@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Isadora Onofrio 👋
 
-<!--
-**IsadoraOT/IsadoraOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analytics Engineer | Revenue Operations Specialist 
+**Bridging technical automation with customer-centric operations.**
 
-Here are some ideas to get you started:
+- 📊 **Current Focus**: Enhancing data integrity and streamlining GTM workflows using SQL, Python, and RESTful APIs.
+- 🎓 **Recent Achievement**: Google Data Analytics Professional Certificate.
+- 🛠️ **Tech Stack**: Python (Pandas, Requests), SQL (BigQuery/PostgreSQL), JavaScript, TypeScript, Next.js.
+- 🌎 **Goal**: Building robust data pipelines for global SaaS ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Featured Project: [AISA - AI Content Insights](LINK_PARA_O_PROJETO_DEPOIS)
+*Automating content data pipelines by processing YouTube transcripts through OpenAI's GPT-4.*
